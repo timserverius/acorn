@@ -1,0 +1,6 @@
+C:\gitp\Acorn\AcornLib\AcornLib\bin\Debug\AcornLib.dll.config
+C:\gitp\Acorn\AcornLib\AcornLib\bin\Debug\AcornLib.dll
+C:\gitp\Acorn\AcornLib\AcornLib\bin\Debug\AcornLib.pdb
+C:\gitp\Acorn\AcornLib\AcornLib\obj\Debug\AcornLib.csprojResolveAssemblyReference.cache
+C:\gitp\Acorn\AcornLib\AcornLib\obj\Debug\AcornLib.dll
+C:\gitp\Acorn\AcornLib\AcornLib\obj\Debug\AcornLib.pdb
