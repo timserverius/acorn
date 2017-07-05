@@ -11,7 +11,7 @@ namespace AcornLib
         public int StudentDistrictEnrollmentId { get; set; }
         public StudentDistrictEnrollment DistrictEnrollment { get; set; }
 
-        public int StudentSchoolEnrollment { get; set; }
+        public int StudentSchoolEnrollmentId { get; set; }
         public StudentSchoolEnrollment SchoolEnrollment { get; set; }
     }
 }
